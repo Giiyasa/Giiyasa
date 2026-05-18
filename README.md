@@ -8,16 +8,13 @@
 <br/>
 
 <div align="center">
-
-  <!-- GitHub stats: Commits, PRs, Repos, etc. -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Giiyasa&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&rank_icon=github" height="150" alt="GitHub Stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giiyasa&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-
   <!-- Streak Stats -->
   <br/>
   <img src="https://streak-stats.demolab.com?user=Giiyasa&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
   
   <!-- Contribution Graph -->
+  <br/>
+  <br/>
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giiyasa&theme=dracula&hide_border=true&hide_title=false" width="98%" alt="Contribution Activity Graph" />
 
@@ -62,19 +59,6 @@
 
 ---
 
-## Featured Projects
-
-- **[Modern Web Dashboard](https://github.com/Giiyasa/web-dashboard)**  
-  Responsive React dashboard with FastAPI backend, supporting real-time analytics and user management.
-
-- **[API Boilerplate](https://github.com/Giiyasa/api-boilerplate)**  
-  Clean FastAPI starter template featuring modular architecture, async processing, and integrated CI/CD.
-
-- **[Go Microservices Starter](https://github.com/Giiyasa/go-microservices-starter)**  
-  Lightweight Go microservice skeleton with gRPC support and container-first deployment.
-
----
-
 ## Let's Connect
 
 <div align="center">
@@ -82,7 +66,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:gilang.saputra.dev@gmail.com" target="_blank">
+  <a href="mailto:gilangulbi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
